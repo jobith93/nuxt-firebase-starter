@@ -1,4 +1,5 @@
 # nuxt+firebase starter template
+A PWA Starter Template using NuxtJS and Firebase with Element UI, Bulma, Axios pre-configured.
 
 ## Build Setup
 
